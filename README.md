@@ -69,7 +69,7 @@
 
 ---
 
-## ตัวอย่าหน้าเว็บ
+## ตัวอย่างหน้าเว็บ
 
 **First Page**
 ![FirstPage](/assets/FirstPage.png)
