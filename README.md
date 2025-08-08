@@ -64,7 +64,7 @@
     ```
 3.  รัน Dashboard ผ่าน Streamlit
     ```bash
-    streamlit run "Data Visualization Dashboard.py"
+    streamlit run "finalDataviz.py"
     ```
 
 ---
